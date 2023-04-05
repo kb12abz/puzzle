@@ -20,7 +20,7 @@ Following command will trigger the bash scripts to build folder structure and ru
  - Using `isFile()` to collect file size, and parent directory
  - `getFileSizes()` returns an array of all files in entire file system
  - Using response from `getFileSizes()` created a new object of directory + count of each file with the same parent directory
- - The response from this was then used to `filter` the object returning directories that where larger than 100000
+ - The response from this was then used to `filter` the object returning directories that where larger smaller 100000
 
 ## Output
 
