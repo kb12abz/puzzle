@@ -7,7 +7,6 @@
       "dev": "nodemon src",
       "file" : "chmod +x ./create.sh && ./create.sh && node src/index.js"
   },
-  "author": "Gh111",
   "license": "ISC",
   "dependencies": {
     "nodemon": "^2.0.21"
