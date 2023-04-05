@@ -8,7 +8,7 @@
 
 ## Running
 
-Following command will trigger the bash scripts to build folder structure and run code to find folders with files larger than 100000
+Following command will trigger the bash scripts to build folder structure and run code to find folders with files smaller than 100000
   
     npm run file
 
